@@ -1,4 +1,4 @@
-package com.jdev.Jdev.controller.exception;
+package com.jdev.Jdev.controller;
 
 import com.jdev.Jdev.model.Course;
 import com.jdev.Jdev.repository.CourseRepository;
